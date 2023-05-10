@@ -32,7 +32,10 @@ $ python tic_tac_toe.py
 
 ## ScreenShot
 <p align="center">
-  <img src="tic_tac_toe.png" width="600">
+  <img src="tic_tac_toe.png" width="300">
+</p>
+<p align="center">
+  <img src="tic_tac_toe_1.png" width="300">
 </p>
 
 ## Connect with me!
